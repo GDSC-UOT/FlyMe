@@ -1,5 +1,5 @@
 # FlyMe
-An application concerned with everything to do with making children's lives better.
+### An application concerned with everything to do with making children's lives better.
 
 Since Children are the future making sure they recieve the best upbringing possible is is very important, also too important.
 With Fly Me, we aim to unlock the potential in each child and enable them to soar into the sky with their creativity and productivity by supplying them with a rich library of useful info such as Books, courses, movies and so much more.
